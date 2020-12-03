@@ -6,7 +6,6 @@
 
 ## Nice to meet you.
 
-This is Maksim Kuduria！
 
 I'm a Senior Fullstack Developer.
 <br/><br/><br/>
