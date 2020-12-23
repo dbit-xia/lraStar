@@ -1,8 +1,8 @@
 
 
 <a href="https://github.com/lara-star?tab=repositories">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lara-star&show_icons=true&hide_border=true&hide_rank=true&card_width=100" style="border-radius: 56%;width: 110px;padding: 0px;border: 6px solid black;" />
-  <img align="right" src="https://cdn5.f-cdn.com/ppic/154007725/logo/46462404/231PO/profile_logo_.jpg" width="50px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lara-star&show_icons=true&hide_border=true&hide_rank=true&card_width=100"  />
+  <img align="right" src="https://cdn5.f-cdn.com/ppic/154007725/logo/46462404/231PO/profile_logo_.jpg" width="50px" style="border-radius: 56%;width: 110px;padding: 0px;border: 6px solid black;" />
 </a>
 
 ## Nice to meet you.
