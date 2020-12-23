@@ -2,7 +2,6 @@
 
 <a href="https://github.com/lara-star?tab=repositories">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lara-star&show_icons=true&hide_border=true&hide_rank=true&card_width=100"  />
-  <img align="right" src="https://cdn5.f-cdn.com/ppic/154007725/logo/46462404/231PO/profile_logo_.jpg"/>
 </a>
 
 ## Nice to meet you.
