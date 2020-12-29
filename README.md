@@ -1,7 +1,7 @@
 
 
-<a href="https://github.com/lara-star?tab=repositories">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lara-star&show_icons=true&hide_border=true&hide_rank=true&card_width=100"  />
+<a href="https://github.com/lraStar?tab=repositories">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lraStar&show_icons=true&hide_border=true&hide_rank=true&card_width=100"  />
 </a>
 
 ## Nice to meet you.
