@@ -10,7 +10,7 @@ I'm a Senior Fullstack Developer.
 <br/><br/><br/>
 
 I’m enthusiastic about **Web Development**, and trying to learn **Mobile Development**.
-
+**************************************************************************************
 <a href="https://github.com/lraStar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraStar&hide=objective-c,plpgsql,html,css&title_color=000000&langs_count=4&text_color=c9cacc&icon_color=2bbc8a&bg_color=#c8e1ff&card_width=100" />
 </a>
