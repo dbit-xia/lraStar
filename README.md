@@ -3,7 +3,6 @@
 <a href="https://github.com/lraStar?tab=repositories">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lraStar&show_icons=true&hide_border=true&hide_rank=true&card_width=100"  />
 </a>
-
 ## Nice to meet you.
 
 
@@ -12,6 +11,9 @@ I'm a Senior Fullstack Developer.
 
 I’m enthusiastic about **Web Development**, and trying to learn **Mobile Development**.
 
+<a href="https://github.com/lraStar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraStar&hide=objective-c,plpgsql,html,css&title_color=000000&langs_count=4&text_color=c9cacc&icon_color=2bbc8a&bg_color=#c8e1ff&card_width=100" />
+</a>
 My preferred programming languages & frameworks:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
@@ -22,7 +24,5 @@ My preferred programming languages & frameworks:
 ![Angular](https://img.shields.io/badge/-Angular-339933?style=flat-square&logo=Angular&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue.js-007ACC?style=flat-square&logo=Vue.js&logoColor=fff)
 
-<a href="https://github.com/lraStar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraStar&hide=objective-c,plpgsql,html,css&title_color=ffffff&langs_count=4&text_color=c9cacc&icon_color=2bbc8a&bg_color=#c8e1ff&card_width=100" />
-</a>
+
 
