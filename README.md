@@ -22,7 +22,7 @@ My preferred programming languages & frameworks:
 ![Angular](https://img.shields.io/badge/-Angular-339933?style=flat-square&logo=Angular&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue.js-007ACC?style=flat-square&logo=Vue.js&logoColor=fff)
 
-<a href="https://github.com/igorasilveira/igorasilveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorasilveira&hide=objective-c,plpgsql,html,css&title_color=ffffff&langs_count=8&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/lraStar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraStar&hide=objective-c,plpgsql,html,css&title_color=000000&langs_count=8&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
