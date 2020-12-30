@@ -4,10 +4,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lraStar&show_icons=true&hide_border=true&hide_rank=true&card_width=100"  />
 </a>
 ## Nice to meet you.
-<br/>
 I'm a Senior Fullstack Developer.
-<br/><br/><br/>
-
+<br/><br/><br/><br/>
 I’m enthusiastic about **Web Development**, and trying to learn **Mobile Development**.
 **************************************************************************************
 <a href="https://github.com/lraStar">
