@@ -23,6 +23,6 @@ My preferred programming languages & frameworks:
 ![Vue](https://img.shields.io/badge/-Vue.js-007ACC?style=flat-square&logo=Vue.js&logoColor=fff)
 
 <a href="https://github.com/lraStar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraStar&hide=objective-c,plpgsql,html,css&title_color=ffffff&langs_count=8&text_color=c9cacc&icon_color=2bbc8a&bg_color=ff1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraStar&hide=objective-c,plpgsql,html,css&title_color=ffffff&langs_count=8&text_color=c9cacc&icon_color=2bbc8a&bg_color=#c8e1ff" />
 </a>
 
